@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @subinaynath
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning DSA & JAVA 
+- 👋 Hi, I’m Subinay Nath
+- 👀 I love to code
 
 <!---
 subinaynath/subinaynath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
